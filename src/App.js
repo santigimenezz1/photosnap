@@ -9,9 +9,8 @@ import Footer from "./Components/Footer";
 
 const App = () => {
   console.log(
-    "Refresh at 1100px and 750px breakpoints to make the images responsive!"
+    "Refresh at 1100px and 750px breakpoints to make the images responsiv!"
   );
-
   return (
     <div className="App">
       <Navbar />
